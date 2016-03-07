@@ -8,7 +8,12 @@ Patrick faces various difficulties while using PantomJS API,
 - page navigation
 
 # solution
+
 Study the solution script here [here](phantom.js)
+
+# Q&A
+
+To be added.
 
 # install
 
