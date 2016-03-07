@@ -1,0 +1,21 @@
+{
+  "name": "patricks-problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "morgan": "^1.7.0",
+    "opn-cli": "^3.1.0",
+    "phantomjs-prebuilt": "^2.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "view": "node index.js & node_modules/.bin/opn http://localhost:3000/page-1.html & wait",
+    "phantom": "rm -f ./output/*png & node index.js & sleep 1 && node_modules/.bin/phantomjs ./phantom.js && echo 'done' & wait"
+  },
+  "keywords": [],
+  "author": "mh-cbon <mh-cbon@users.noreply.github.com>",
+  "license": "MIT"
+}
