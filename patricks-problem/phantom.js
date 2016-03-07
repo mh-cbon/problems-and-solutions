@@ -6,6 +6,7 @@ var page = require('webpage').create();
 
 
 page.open('http://127.0.0.1:3000/page-1.html', screenPage1);
+// we ll use onLoadFinished event to trigger the next function (page-2) handler.
 //
 // http://phantomjs.org/api/webpage/handler/on-load-finished.html
 page.onLoadFinished = function(status) {

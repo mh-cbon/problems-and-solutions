@@ -8,4 +8,17 @@ Patrick faces various difficulties while using PantomJS API,
 - page navigation
 
 # solution
-[here](phantom.js)
+Study the solution script here [here](phantom.js)
+
+# install
+
+For linux compatible OS,
+
+```
+git clone https://github.com/mh-cbon/problems-and-solutions.git
+cd patricks-problem
+npm i
+npm run phantom
+```
+
+For windows user. Why do you use such software ?
