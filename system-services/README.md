@@ -122,6 +122,8 @@ __get upstart version__
 - http://nathangrigg.net/2012/07/schedule-jobs-using-launchd/#launchctl
 - http://stackoverflow.com/questions/15735320/osx-s-etc-init-d-equivalent
 - https://github.com/TooTallNate/plist.js
+- http://nathangrigg.net/2012/07/schedule-jobs-using-launchd/
+- http://launchd.info/
 
 #### Vagrant helpers
 - https://github.com/radeksimko/vagrant-osx
