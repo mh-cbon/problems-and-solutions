@@ -96,6 +96,7 @@ __get upstart version__
 
 #### existing node modules
 - https://github.com/coreybutler/node-linux
+- https://github.com/Lcfvs/init.d-script-sample
 
 #### HOW TO DIY
 - https://www.digitalocean.com/community/tutorials/how-to-configure-a-linux-service-to-start-automatically-after-a-crash-or-reboot-part-2-reference
@@ -107,8 +108,11 @@ __get upstart version__
 
 #### existing node modules
 - https://github.com/coreybutler/node-mac
+- https://github.com/bryanmacfarlane/svcinstall
+- https://github.com/evanlucas/node-launchd.plist
 
 #### HOW TO DIY
 - https://developer.apple.com/library/mac//documentation/Darwin/Reference/ManPages/man5/launchd.plist.5.html
 - http://nathangrigg.net/2012/07/schedule-jobs-using-launchd/#launchctl
 - http://stackoverflow.com/questions/15735320/osx-s-etc-init-d-equivalent
+- https://github.com/TooTallNate/plist.js
