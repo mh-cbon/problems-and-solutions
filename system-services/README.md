@@ -58,6 +58,12 @@ According to those readings,
 - [nssm](https://nssm.cc/)
 - [installutil](https://msdn.microsoft.com/en-us/library/sd8zc8ha%28v=vs.110%29.aspx)
 
+# Linux generals
+
+- http://unix.stackexchange.com/questions/121654/convenient-way-to-check-if-system-is-using-systemd-or-sysvinit-in-bash
+- http://unix.stackexchange.com/questions/18209/detect-init-system-using-the-shell
+- http://unix.stackexchange.com/questions/196166/how-to-find-out-if-a-system-uses-sysv-upstart-or-systemd-initsystem
+
 # Linux upstart
 
 #### existing node modules
@@ -66,6 +72,13 @@ According to those readings,
 
 #### HOW TO DIY
 - http://upstart.ubuntu.com/cookbook/
+- https://www.digitalocean.com/community/tutorials/the-upstart-event-system-what-it-is-and-how-to-use-it
+- http://upstart.ubuntu.com/wiki/Stanzas
+- http://blog.terminal.com/getting-started-with-upstart/
+- https://github.com/ilcic/Upstart-and-Service-framework
+
+__get upstart version__
+- http://askubuntu.com/questions/396167/how-can-i-check-if-upstart-is-installed-in-ubuntu-server-and-how-can-i-install-i
 
 # Linux systemd
 
@@ -74,12 +87,28 @@ According to those readings,
 - https://github.com/simone-sanfratello/node-service-systemd
 - https://github.com/strongloop/strong-service-systemd
 
+#### HOW TO DIY
+- https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/chap-Managing_Services_with_systemd.html
+- https://www.certdepot.net/rhel7-get-started-systemd/
+- (fr) http://www.linuxtricks.fr/wiki/systemd-les-commandes-essentielles
+
 # Linux systemv
 
 #### existing node modules
 - https://github.com/coreybutler/node-linux
 
+#### HOW TO DIY
+- https://www.digitalocean.com/community/tutorials/how-to-configure-a-linux-service-to-start-automatically-after-a-crash-or-reboot-part-2-reference
+- https://wiki.archlinux.org/index.php/SysVinit
+- http://linoxide.com/linux-command/systemd-vs-sysvinit-cheatsheet/
+- http://www.tecmint.com/linux-boot-process-and-manage-services/
+
 # Mac
 
 #### existing node modules
 - https://github.com/coreybutler/node-mac
+
+#### HOW TO DIY
+- https://developer.apple.com/library/mac//documentation/Darwin/Reference/ManPages/man5/launchd.plist.5.html
+- http://nathangrigg.net/2012/07/schedule-jobs-using-launchd/#launchctl
+- http://stackoverflow.com/questions/15735320/osx-s-etc-init-d-equivalent
