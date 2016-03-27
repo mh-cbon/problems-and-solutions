@@ -53,6 +53,12 @@ According to those readings,
 - http://stackoverflow.com/questions/3663331/creating-a-service-with-sc-exe-how-to-pass-in-context-parameters
 - it probably needs administrator rights
 
+#### vagrant helpers
+- https://github.com/dmitry-zaets/vagrantfile-windows-iis-mssql
+- https://gist.github.com/andreptb/57e388df5e881937e62a
+- http://blog.xebia.fr/2015/04/22/une-vm-moderne-pour-ie-avec-vagrant/
+- https://dev.windows.com/en-us/microsoft-edge/tools/vms/linux/
+
 #### alternatives
 
 - [nssm](https://nssm.cc/)
@@ -116,3 +122,9 @@ __get upstart version__
 - http://nathangrigg.net/2012/07/schedule-jobs-using-launchd/#launchctl
 - http://stackoverflow.com/questions/15735320/osx-s-etc-init-d-equivalent
 - https://github.com/TooTallNate/plist.js
+
+#### Vagrant helpers
+- https://github.com/radeksimko/vagrant-osx
+- https://github.com/AndrewDryga/vagrant-box-osx
+- https://github.com/benc/osx-vagrant
+- https://github.com/siuying/vagrant-osx-elcapitan-build
