@@ -52,6 +52,7 @@ According to those readings,
 
 - http://stackoverflow.com/questions/3663331/creating-a-service-with-sc-exe-how-to-pass-in-context-parameters
 - it probably needs administrator rights
+- http://stackoverflow.com/questions/20584263/how-to-install-node-js-in-custom-folder-silently-on-windows
 
 #### vagrant helpers
 - https://dennypc.wordpress.com/2014/12/02/vagrant-provisioning-powershell-dsc/
