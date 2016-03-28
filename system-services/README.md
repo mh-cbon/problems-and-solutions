@@ -54,6 +54,7 @@ According to those readings,
 - it probably needs administrator rights
 
 #### vagrant helpers
+- https://dennypc.wordpress.com/2014/12/02/vagrant-provisioning-powershell-dsc/
 - https://joecod.es/modernie-for-vagrant-reloaded/
 - https://github.com/dmitry-zaets/vagrantfile-windows-iis-mssql
 - https://gist.github.com/andreptb/57e388df5e881937e62a
